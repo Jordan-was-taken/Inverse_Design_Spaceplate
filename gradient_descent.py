@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Author: Jordan Pagé (EN/FR)
-jpage019@uottawa.ca
+jordan.page75@gmail.com
 August 24th 2020
 
 Over-hauled by Orad Reshef
